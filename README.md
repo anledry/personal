@@ -17,7 +17,7 @@ The goal of this repository is to:
 
 ## 🧠 Contents
 
-- `Anledry_Cobos_Profile.md` — Main Markdown document with all professional details.  
+- [Anledry_Cobos_Profile.md](Anledry_Cobos_Profile.md) — Main Markdown document with all professional details.  
 - Supporting files may include:
   - Certifications or training references  
   - Portfolio or project summaries  
