@@ -8,7 +8,7 @@
 
 ---
 
-## 🧩 Summary
+## Summary
 
 Senior QA/Test Engineer & Technical Product Owner with 14+ years delivering critical, regulated systems.  
 Designs test strategies and builds automation frameworks integrated into CI/CD for distributed services, enabling faster, safer releases (reduced defects, MTTR).  
@@ -16,7 +16,7 @@ Hands-on with Linux, Python, Docker/Kubernetes, and API testing. Strong in docum
 
 ---
 
-## ⚙️ Core Skills
+## Core Skills
 
 ### Testing & Quality
 - Test strategy and planning  
@@ -68,7 +68,7 @@ Hands-on with Linux, Python, Docker/Kubernetes, and API testing. Strong in docum
 
 ---
 
-## 🏢 Experience
+## Experience
 
 ### **Smartmatic — Taiwan & Global (USA/EU)**  
 **2013 – 2022 – Present**  
@@ -108,14 +108,14 @@ Mission-critical election systems provider. Progressed through OS engineering an
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Systems Engineering**  
 National Experimental University of the Armed Forces (UNEFA), Venezuela  
 
 ---
 
-## 📜 Certifications & Training
+## Certifications & Training
 
 - AWS Technical Essentials  
 - Migrating to AWS  
@@ -128,14 +128,14 @@ National Experimental University of the Armed Forces (UNEFA), Venezuela
 
 ---
 
-## 🧰 Tools
+## Tools
 
 Git, Jira, Confluence, Python, Bash, Jenkins, GitHub Actions, Docker, Kubernetes, Terraform, Linux, AWS,  
 Allure/pytest-html, Postman/HTTP tooling, EMI/EMC measurement tools
 
 ---
 
-## 🌍 Selected Global Work
+## Selected Global Work
 
 USA · Belgium · Bulgaria · Albania · Panama  
 (Additional deployments in APAC/EMEA as applicable)
